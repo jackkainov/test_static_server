@@ -1,0 +1,15 @@
+{
+  "name": "Test",
+  "version": "0.0.1",
+  "description": "Test static server",
+  "main": "run.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jackkainov",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "supertest": "^0.15.0"
+  }
+}

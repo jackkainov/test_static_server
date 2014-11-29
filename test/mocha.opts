@@ -1,0 +1,6 @@
+--reporter spec
+--colors
+--timeout 10000
+--require ./run
+--recursive
+--ui bdd
